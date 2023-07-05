@@ -3,7 +3,7 @@
 - 🌱 I have obtained my Graduate Certificate of Data Science at RMIT Online (graduated June 2023 - GPA 4.0)
 - 💞️ I have a background in the arts, which has helped develop creative problem-solving skill that I'm enjoying applying in SQL, Python, R, Tableau and Excel - and getting into Power Bi now.
 
-- 💼 My web portfolio can be viewed here: http://adam-tuoa-github.io
+- 💼 My web portfolio: http://adam-tuoa-github.io
 - 📫 How to reach me: adam@tuoa.com.au
 
 <!---
