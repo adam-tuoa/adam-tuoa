@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Adam Simmons
-- 👀 I’m interested in developing my data skills to help make a difference to my community - eg. health, education, employment, creative industries, tech.
-- 👨🏽‍💻 I am currently working as a prompt engineer and data analyst, enjoying working with generative AI models, Neo4j graph databases, Python, Excel and Power BI.
-- 🌱 I obtained my Graduate Certificate of Data Science at RMIT Online, graduated June 2023 - GPA 4.0 - Vice Chancellor's List of Academic Excellence.
-- 💞️ I have a background in the arts, which has helped develop creative problem-solving skill that I'm enjoying applying in SQL, Python, R, Tableau and Excel - and getting into Power Bi now.
+- 👀 I enjoy using my data skills to help make a difference to my community - currently in education and have contributed to health, infrastructure, government administration and creative industries
+- 👨🏽‍💻 I am currently working as an Analyst, Data & Insights, processing student performance data, creating executive reports and contributing to school governance and compliance reporting, using Power BI, Python and Excel. 
+- 🖥️ My previous role was a prompt engineer/data analyst, working with generative AI models, Neo4j graph databases, Python, Excel and Power BI.
+- 🌱 I obtained my Graduate Certificate of Data Science with Distinction at RMIT Online, in 2023 - Vice Chancellor's List of Academic Excellence.
+- 💞️ I have a background in the performing arts, which has helped develop creative problem-solving skill that I'm enjoying applying in SQL, Python, R, Tableau and Excel - and getting into Power Bi now.
 
 - 💼 My web portfolio: http://adam-tuoa.github.io
 - 📫 How to reach me: adam@tuoa.com.au
